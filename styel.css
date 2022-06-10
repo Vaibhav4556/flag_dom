@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(orange, white, green);
+    box-shadow: 10px 5px 5px green
+}
+
+.container {
+    height: 500px;
+    width: 1000px;
+    justify-content: center;
+    margin-left: 150px;
+    border-radius: 100px;
+}
